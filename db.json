@@ -1,0 +1,24 @@
+{
+  "clientes": [
+    {
+      "values": {
+        "nombre": "Gaston",
+        "empresa": "Claro",
+        "email": "wolfutn@gmail.com",
+        "tel": "3794626627",
+        "notas": "Hola"
+      },
+      "id": 1
+    },
+    {
+      "values": {
+        "nombre": "Celular",
+        "empresa": "GateIo",
+        "email": "ngtannre@hotmail.com",
+        "tel": "33333333",
+        "notas": "Chau"
+      },
+      "id": 2
+    }
+  ]
+}

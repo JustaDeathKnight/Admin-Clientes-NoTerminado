@@ -9,20 +9,20 @@ const Layout = () => {
         <h2 className='text-4xl font-black text-center text-white'>CRM - Clientes</h2>
         <nav className='mt-10'>
           <Link 
-          className={`${urlAct === '/clientes' ? 'text-blue-300' : 'text-white'} 
+          className={`${urlAct === '/clientes' ? 'text-white' : 'text-blue-200'} 
           text-2xl block mt-2 hover:text-blue-300`}
 
           to="/clientes">Clientes
           </Link>
           <Link 
-          className={`${urlAct === '/clientes/nuevo' ? 'text-blue-300' : 'text-white'} 
+          className={`${urlAct === '/clientes/nuevo' ? 'text-white' : 'text-blue-200'} 
           text-2xl block mt-2 hover:text-blue-300`}
 
           to="/clientes/nuevo">Nuevo Cliente
           </Link>
         </nav>
       </div>
-      <div className='md:w-3/4 p-10'>
+      <div className='md:w-3/4 p-10 md:h-screen overflow-scroll'>
         <Outlet />
       </div>
       
