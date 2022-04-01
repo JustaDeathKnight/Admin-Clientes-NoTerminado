@@ -1,24 +1,5 @@
 {
   "clientes": [
-    {
-      "values": {
-        "nombre": "Gaston",
-        "empresa": "Claro",
-        "email": "gastoneacosta@outlook.com",
-        "tel": "44443",
-        "notas": "hgh"
-      },
-      "id": 1
-    },
-    {
-      "values": {
-        "nombre": "Lucas Agustin",
-        "empresa": "GateIo",
-        "email": "gracielatannure@hotmail.com",
-        "tel": "33333333",
-        "notas": ""
-      },
-      "id": 2
-    }
+
   ]
 }
