@@ -6,7 +6,7 @@ const Inicio = () => {
   useEffect(() => {
     const obtenerClientesApi = async ()=> {
       try{
-        const url = 'http://localhost:4000/clientes'
+        const url = 'http://localhost:4001/clientes'
         const respuesta = await fetch(url)
         const resultado = await respuesta.json()
         setClientes(resultado)

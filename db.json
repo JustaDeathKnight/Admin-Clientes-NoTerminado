@@ -4,19 +4,19 @@
       "values": {
         "nombre": "Gaston",
         "empresa": "Claro",
-        "email": "wolfutn@gmail.com",
-        "tel": "3794626627",
-        "notas": "Hola"
+        "email": "gastoneacosta@outlook.com",
+        "tel": "44443",
+        "notas": "hgh"
       },
       "id": 1
     },
     {
       "values": {
-        "nombre": "Celular",
+        "nombre": "Lucas Agustin",
         "empresa": "GateIo",
-        "email": "ngtannre@hotmail.com",
+        "email": "gracielatannure@hotmail.com",
         "tel": "33333333",
-        "notas": "Chau"
+        "notas": ""
       },
       "id": 2
     }
